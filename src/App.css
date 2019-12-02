@@ -1,0 +1,12 @@
+html, body, #root {
+  height: 100%;
+}
+
+#root {
+  padding-top: 64px;
+  height: calc(100% - 64px);
+}
+
+a {
+  text-decoration: none;
+}
